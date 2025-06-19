@@ -1,0 +1,1261 @@
+Start,End,Cycle,Line,Equipment,Part,Parameter,Expected_value_min,Expected_value_max,Value,Date
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.55,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1472.51,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,6.63,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.97,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,103.01,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.13,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.92,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.33,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.59,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.14,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,138.54,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.89,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.39,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.6,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,87.18,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,87.8,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,101.21,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,7.05,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,62.59,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.32,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,123.5,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.3,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.82,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.6,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.67,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.9,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.61,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.86,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.3,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.82,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,152.49,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,145.66,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.12,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.06,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.27,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,97.85,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,121.52,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,106.29,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,7.24,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,114.17,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,122,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.99,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.43,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.6,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,9.28,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.4,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.3,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.13,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.41,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.03,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.57,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,148.39,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.96,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.13,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.7,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.84,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,80.98,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,106.98,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,108.44,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.12,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,91.96,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.92,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.68,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,7.16,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1282.47,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,6.88,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,101.64,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.98,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.8,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.47,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.05,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.84,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.38,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,141.72,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.86,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.03,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.84,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,94.04,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,63.65,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,106.31,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.22,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,60.72,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.78,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,123.75,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,12.1,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1422.52,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,3.68,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,104.09,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,100.02,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.08,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.03,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.8,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.55,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.53,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.93,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.85,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.86,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.33,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,72.38,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,72.02,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,109.62,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.74,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,41.81,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.34,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.09,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.85,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.75,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,10.62,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.05,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.58,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.48,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.14,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.68,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.86,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,151.86,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,147.97,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.16,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.51,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.38,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,110.08,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,75.44,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,103.54,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,11.76,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,107.14,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.18,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.86,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,6.43,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1765.46,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.42,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,103.41,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.17,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.03,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.58,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.68,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.87,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,145.46,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,139.69,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.17,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.42,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,121.2,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,119.37,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,71.19,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,101.31,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,5.06,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,85.28,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,122.89,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.12,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,6.78,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1206.91,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.27,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.5,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.89,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.47,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.65,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.03,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.52,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.74,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.3,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.82,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.5,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,118.58,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,91.24,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,116.22,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,107.43,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.14,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,103.99,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.27,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,118.39,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.94,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.27,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,14.47,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,101.43,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.03,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.27,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.58,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.6,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.51,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,154.64,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,144.38,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.81,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.92,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.32,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,84.83,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,80.5,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,100.64,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,9.48,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,111.2,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,123.28,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.01,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,8.64,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1285.67,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,8.82,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.1,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.11,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,9.54,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.62,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.94,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.5,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.36,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,143.27,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.8,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.18,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.91,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,116.91,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,107.05,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,102.1,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,5.25,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,95.07,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,120.08,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.04,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.79,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1989.1,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.63,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,108.25,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.83,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.52,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.98,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.89,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.91,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.02,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,145.71,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.21,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.48,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.37,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,106.99,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,66.09,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,104.57,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.86,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,100.19,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.49,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.49,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,12.68,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1970.28,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.98,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.27,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.62,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.67,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.2,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,140.72,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.48,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.76,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,142.2,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.22,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.41,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.98,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,99.74,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,113.63,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,101.42,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,8.32,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,96.06,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.28,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.48,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.45,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,999.37,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.89,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.12,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.35,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.99,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.36,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.27,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.93,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.32,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.13,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.77,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,123.39,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.65,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,75.59,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,117.61,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,107.73,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.16,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,116.17,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.73,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,122.44,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.5,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1941.38,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,14.09,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.14,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.39,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.66,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.21,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.72,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.46,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,148.44,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,140.98,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.24,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,116.18,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,118.27,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,65.1,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,83.93,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,102.67,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,11.4,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,86.72,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.96,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,122.28,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.71,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1137.97,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.5,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.75,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,104.74,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,9.78,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.01,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.28,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.45,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,148.01,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.19,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.75,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,121.37,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.16,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,78.12,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,63.59,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,106.35,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,11.11,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,121.27,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.38,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,118.16,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,8.37,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1317.48,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,17.67,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,104.85,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,100.29,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.6,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.42,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.35,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.44,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.23,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.99,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.26,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.37,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,116.34,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,109.94,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,108.43,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,105.92,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.44,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,85.48,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.59,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.27,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.82,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.96,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.61,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,107.72,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.72,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.87,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.18,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.44,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.97,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,148.5,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.27,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.73,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.15,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.31,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,77.91,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,81.38,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,109.95,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.89,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,109.81,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.94,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116.52,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.46,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.1,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,4.43,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.61,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.07,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.01,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.03,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.62,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.98,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,144.91,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,147.17,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.28,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.96,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.19,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,113.65,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,83.71,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,104.2,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,7,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,63.61,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.08,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.86,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,6.02,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.75,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,8.75,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,101.89,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.29,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.44,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.8,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.84,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.41,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,152.86,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.11,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.71,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.58,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.26,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,114.46,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,74.38,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,100.54,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,8.99,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,48.61,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.36,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.72,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.6,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,998.07,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.2,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,100.38,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.49,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,6.5,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.07,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.14,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.4,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,152.61,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.76,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.7,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.4,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.01,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,80.04,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,120.68,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,105.71,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.85,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,104.71,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.53,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,122.34,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.15,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1322.41,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,7.82,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,108.84,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,102.89,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.16,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.76,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.53,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.01,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.32,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,142.84,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.31,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.08,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,119.8,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,117.94,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,69.97,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,105.26,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.73,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,56.43,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.45,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.82,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.53,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1759.95,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,4.26,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,104.18,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,100.63,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,6.58,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.28,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,142.96,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.38,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,145.91,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,134.74,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.32,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.35,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.31,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,67.11,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,100.93,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,100.85,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.94,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,49.19,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,120.77,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,121.29,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.27,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2002.42,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.17,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,103.11,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,102.21,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,5.5,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.12,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.31,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.37,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,153.73,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.04,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.33,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,123.18,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,119.48,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,92.69,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,117.94,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,102.57,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.65,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,103.81,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,117.04,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.81,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.66,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2000.74,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.35,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,101.07,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.19,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.48,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.9,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.82,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.36,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.06,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,145.75,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.34,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.12,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.34,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,104.06,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,100.61,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,104.49,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.66,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,44.75,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.79,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.88,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.84,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.6,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,4.26,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.71,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.83,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,9.66,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.62,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,140.13,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.05,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.73,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.77,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.35,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.24,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.37,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,86.97,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,78.84,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,108.64,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.99,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,73.52,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.94,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.61,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.31,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,998.18,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.49,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,107.57,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,103.77,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,5.54,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.9,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.01,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.34,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,146.22,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.44,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.64,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.3,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.1,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,95.66,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,117.44,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,107.92,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,9.76,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,113.12,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.47,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.85,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.35,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.22,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2.21,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,103.94,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.17,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,6.89,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.16,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.73,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.33,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.21,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,134.25,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.37,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.17,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,121.94,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,97.82,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,73.8,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,106.16,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,8.25,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,122.41,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.86,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.03,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.9,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2000.79,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.06,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,108.58,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,103.28,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.58,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.84,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.11,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.32,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,154.39,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.66,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.62,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.39,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.82,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,75.05,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,84.81,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,108.6,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,7.56,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,110.67,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,122.69,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.74,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.77,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.26,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,3.39,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,100.72,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,103.57,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.75,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.2,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.91,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.31,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,154.15,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,138.23,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.61,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,121.25,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.51,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,64.06,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,108.54,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,107.39,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,7.76,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,49.53,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,120.38,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.39,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,8.66,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,998.13,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,17.57,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.83,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.42,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,5.38,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.7,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.54,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.3,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.19,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.02,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.6,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.71,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.68,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,90.64,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,106.63,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Product Screener,Screening Rotary Valve,Temperature,100,110,101.79,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.03,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,99.33,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.58,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,121.94,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.19,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1185.52,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.31,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,107.12,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,104.11,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.75,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.81,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,142.62,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.59,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,152.34,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,141.21,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.89,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.35,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.98,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,78.36,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,83.04,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,100.04,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.55,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,99.36,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.42,NULL
+8:00:00 AM,10:00:00 AM,1,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.62,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,8.68,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1869.15,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,11.4,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,100.55,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.69,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.39,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.78,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.75,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.82,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,148.21,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,137,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.12,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,121.95,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.28,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,79.38,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,63.42,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,101.26,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,9.16,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,105.69,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,117.47,NULL
+10:00:00 AM,12:00:00 PM,2,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.2,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.68,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1939.47,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.93,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,107.18,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.74,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.01,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.54,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.07,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.83,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.43,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,139.27,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.13,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.27,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.09,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,66.21,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,109.26,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,103.42,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.7,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,64.14,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.61,NULL
+12:00:00 PM,2:00:00 PM,3,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,118.76,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.38,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1656.41,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,4.01,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.94,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,103.15,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.67,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.61,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.55,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.56,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.74,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.77,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.86,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.06,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,119.96,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,81.88,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,93.3,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.48,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.5,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,97.81,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.96,NULL
+2:00:00 PM,4:00:00 PM,4,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,118.3,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.03,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1011.3,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,9.99,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.89,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,102.8,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.61,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.73,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.7,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.55,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.06,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.12,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.15,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.65,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,91.61,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,111.53,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,100.4,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.38,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,120.12,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,123.22,NULL
+4:00:00 PM,6:00:00 PM,5,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.63,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.03,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1264.99,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.83,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.14,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.2,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,7.36,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.64,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.55,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.54,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.75,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,139.76,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.84,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.83,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.39,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,69.28,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,104.85,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,105.35,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.64,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,69.78,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.47,NULL
+6:00:00 PM,8:00:00 PM,6,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116.7,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.92,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1332.96,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,8.21,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.09,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.71,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.1,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.42,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.67,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.87,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.28,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,143.71,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.17,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,118.51,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,118.8,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,77.35,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,99.27,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.76,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.1,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,109.84,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.88,NULL
+8:00:00 PM,10:00:00 PM,7,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,118.89,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.1,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1134.97,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,7.34,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.35,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,108.11,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.47,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.8,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.96,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.52,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.97,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,147.1,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.18,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.33,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,121.06,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,89.58,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,109.8,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.35,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,9.22,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,123.37,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,122.26,NULL
+10:00:00 PM,12:00:00 AM,8,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,121.14,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,7.01,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1326.86,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,17.68,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,104.12,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.23,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.26,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.66,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.76,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.89,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,145.53,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.95,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.81,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.1,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,120.81,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,94.99,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,99.26,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.24,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.2,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,117.63,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.43,NULL
+12:00:00 AM,2:00:00 AM,9,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.8,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.05,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1544.26,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,7.29,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.54,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.68,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.11,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.78,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.54,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.5,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.31,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.34,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.2,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,121.37,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.3,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,82.52,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,123.58,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,108.34,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,9.23,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,81.37,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.62,NULL
+2:00:00 AM,4:00:00 AM,10,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.76,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.14,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.71,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,17.63,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.31,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.96,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.96,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.02,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.67,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.49,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.13,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,139.43,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.21,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,123.71,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.11,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,122.7,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,80.45,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.64,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.49,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,120.34,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.18,NULL
+4:00:00 AM,6:00:00 AM,11,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,122.49,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.51,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1500.69,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.67,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.26,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.62,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.26,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.46,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.14,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.92,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,152.62,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.24,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.78,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.95,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.21,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,101.77,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,82.81,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.64,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.89,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,55.45,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.98,NULL
+6:00:00 AM,8:00:00 AM,12,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,123.04,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,7.44,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1962.13,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.41,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.9,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,100.25,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.35,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.78,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.98,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.93,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,154.23,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.23,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.23,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.93,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.34,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,76.29,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,114,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,107.79,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.76,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,89.78,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.85,NULL
+8:00:00 AM,10:00:00 AM,13,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,121.84,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.96,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1392.93,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,5.64,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.06,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,102.51,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,9.58,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.72,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.48,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.46,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.27,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,136.6,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.24,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.97,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.24,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,87.53,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,99.17,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.78,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.27,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,96.45,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.15,NULL
+10:00:00 AM,12:00:00 PM,14,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116.06,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,7.6,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2002.58,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.36,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.03,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.79,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.04,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.1,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.31,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.95,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.99,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,144.9,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.25,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,120.24,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,119.09,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,116.42,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,71.35,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,100.65,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,11.45,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,86.81,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.06,NULL
+12:00:00 PM,2:00:00 PM,15,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,123.49,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,7.47,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1380.18,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,15.54,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,100.5,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.93,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,9.82,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.29,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,142.8,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.96,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,151.51,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,138.21,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.74,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.86,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,118.06,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,124.52,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,70.79,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,105.99,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.45,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,65.15,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.15,NULL
+2:00:00 PM,4:00:00 PM,16,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,120.57,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,12.11,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1448.95,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,8.65,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,108.17,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,101.14,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.42,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.57,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,136.99,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.43,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,144.53,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,138.1,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.27,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.59,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.49,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,118.68,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,124.17,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,105.78,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.27,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,111.73,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,117.36,NULL
+4:00:00 PM,6:00:00 PM,17,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.34,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.23,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1863.46,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,12.49,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.64,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.27,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.44,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,142.9,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.98,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,153.89,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,138.19,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.28,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,123.75,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,115.41,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,65.22,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,113.66,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,106.46,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.65,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,105.95,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.78,NULL
+6:00:00 PM,8:00:00 PM,18,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,123.52,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,11.58,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2002.91,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.27,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,103.73,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.13,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.76,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.41,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,140.58,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.99,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,144.94,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,147.05,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.29,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,116.66,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,118.08,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,120.32,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,99.38,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,107.48,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,8.94,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,59.35,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,117.81,NULL
+8:00:00 PM,10:00:00 PM,19,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.43,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.21,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1477.88,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,17.53,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,104.89,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.96,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.76,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.05,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.39,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.4,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.26,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,145.72,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.7,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,123.25,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,121.65,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,85.15,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,96.96,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.41,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,14.4,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,106.27,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,121.33,NULL
+10:00:00 PM,12:00:00 AM,20,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116.64,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.53,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1523.69,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.1,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.74,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,105.85,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,12.23,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.85,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,140.52,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.01,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,155.94,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,135.03,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.31,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,118.03,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,117.77,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,64.99,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,70.94,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,109.06,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,13.29,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,86.86,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,123.78,NULL
+12:00:00 AM,2:00:00 AM,21,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.21,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.51,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1822.87,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.31,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.64,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.8,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,11.09,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.18,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,139.3,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.02,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,147.6,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,144.27,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.68,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,119.26,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,116.82,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,122.04,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,68.12,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,101.15,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,7.8,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,60.52,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,116.4,NULL
+2:00:00 AM,4:00:00 AM,22,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.75,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,12.3,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,999.02,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,15.97,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,109.48,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,106.67,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,5.05,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,149.07,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.5,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.37,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,150.85,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.67,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.99,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,121.19,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,99.11,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,101.48,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,104.36,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.82,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,66.41,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,123.04,NULL
+4:00:00 AM,6:00:00 AM,23,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.39,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,14.32,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2002.34,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,13.06,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,101.07,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,108.43,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.11,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,147.72,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.08,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.04,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,149.85,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,137.98,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.34,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.95,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.65,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,84.54,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,87.73,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,104.73,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.09,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,58.31,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,115.66,NULL
+6:00:00 AM,8:00:00 AM,24,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,124.68,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,9.9,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,1614.8,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.4,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.11,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.02,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,10.24,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,148.61,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,143.35,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.05,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,144.63,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.39,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.35,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.43,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,124.19,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,73.05,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,120.31,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,107.13,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,5.38,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,78.39,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,119.45,NULL
+8:00:00 AM,10:00:00 AM,25,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,121.01,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,10.2,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.26,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,2,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,106.75,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,107.71,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,5.27,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.34,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,142.32,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.06,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,153.82,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,134.92,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.36,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,124.04,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.61,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,81.13,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,81.75,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,102.76,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,8.18,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,62.57,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,122.02,NULL
+10:00:00 AM,12:00:00 PM,26,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,119.25,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,6.15,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,999.33,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,3.7,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,105.71,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,108.21,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.41,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,151.46,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,141.62,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.33,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,153.8,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,146.28,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.63,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,118.93,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,123.51,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,94.69,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,70.4,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,103.53,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.7,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,122.61,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,123.33,NULL
+12:00:00 PM,2:00:00 PM,27,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116.41,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.32,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2000.97,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,16.11,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,102.31,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,109.91,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,14.76,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,152.85,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,138.19,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.32,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,146.17,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,134.68,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.62,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,115.96,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.44,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,75.7,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,87.86,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,105.71,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.4,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,62.56,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,118.52,NULL
+2:00:00 PM,4:00:00 PM,28,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,116,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,5.56,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,997.53,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,15.98,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,100.77,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,108.64,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,8.47,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,148,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,144.37,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,2.31,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,146.3,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,145.5,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,30.39,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,117.18,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,116.94,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,78.02,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,122.34,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,101.21,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,6.84,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,68.11,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,120.4,NULL
+4:00:00 PM,6:00:00 PM,29,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,117.08,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,Vibrations,5,15,13.61,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Feed Rate,1000,2000,2001.33,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,Vibrations,5,15,9.04,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,Temperature,100,110,103.37,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Temperature,100,110,104.75,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,Vibrations,5,15,13.18,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,Steam Inlet Temp,147,153,150.18,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,Steam Outlet Temp,136,145,137.85,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Pressure,2.7,2.7,3.1,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Inlet Temp,147,153,145.74,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Outlet Temp,136,145,133.01,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,Steam Velocity,30,30,29.6,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,Steam Sep Line Temp,115,125,122.65,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,Steam Sep Line Temp,115,125,122.19,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,Cooling Air,63,125,85.14,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Cooling Cyclone,Cooling Blower,Cooling Air,63,125,109.12,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Product Screener,Screening Rotary Valve,Temperature,100,110,104.89,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Product Screener,Screening Rotary Valve,Vibrations,5,15,10.23,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Product Screener,Transfer Blower,Transfer Cool Air Temp,40,125,103.73,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,Steam Sep Line Temp,115,125,124.16,NULL
+6:00:00 PM,8:00:00 PM,30,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,Steam Sep Line Temp,115,125,115.32,NULL

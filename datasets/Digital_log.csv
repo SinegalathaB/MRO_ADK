@@ -1,0 +1,34 @@
+Date,Plant,Line,Equipment,Part,Downtime_hrs,Impact_units,Impact_dollars,Reason_code,Recommended_action,Action_taken,Safety Regulations
+17-01-2024,Plant 1,Sanitization Line 1,Raw Material Bin,Raw Material Rotary Valve,12,5000,157384,Temperature exceeded range,Schedule Repair,Fixed the part,As per SOP guidelines
+18-01-2024,Plant 1,Sanitization Line 1,Raw Material Bin,Husk Feed Screw,17,7964,171506,Vibration exceeded range with Visible crack on Surface,Schedule Repair,Fixed the part,Followed SOP and safety protocols
+20-01-2024,Plant 2,Sanitization Line 2,Raw Material Bin,Raw Material Chamber,13,9524,106680,Maintenance Required,Replace,Replaced with spare parts,Compliance with SOP and safety standards
+21-01-2024,Plant 2,Sanitization Line 2,Raw Material Bin,2nd Stage Feed Screw,19,7766,128189,Vibration exceeded range with Visible misalignment of surface,Replace,Replaced with spare parts,Safety checks as per SOP completed
+22-01-2024,Plant 3,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,10,7817,110028,Vibration exceeded range,Schedule Repair,Fixed the part,SOP adherence verified
+23-01-2024,Plant 3,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,11,1633,167509,Temperature and Vibration exceeded range,Replace,Replaced with spare parts,Maintained SOP safety protocols
+24-01-2024,Plant 4,Sanitization Line 1,Steam Cyclone,Steam Cyclone Chamber,16,3228,116240,"Maintenance Required, decaying surface, huge white spot visible surface",Maintenance,Maintenance crew dispatched as per schedule,Safety procedures followed according to SOP
+25-01-2024,Plant 5,Sanitization Line 1,Steam Cyclone,Steam Cyclone tube and Piping,14,7536,123911,Temperature exceeded range,Schedule Repair,Fixed the part,Checked per SOP safety standards
+27-01-2024,Plant 1,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Blower,13,2706,113876,Temperature and Vibration exceeded range,Replace,Replaced with spare parts,Following SOP requirements for safety
+28-01-2024,Plant 1,Sanitization Line 2,Steam Sep Cyclone,Steam Sep Rotary Valve,15,2268,148819,Maintenance Required,Replace,Replaced with spare parts,SOP compliance confirmed
+29-01-2024,Plant 2,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,18,6732,132040,Temperature exceeded range,Replace,Replaced with spare parts,Adhered to SOP safety protocols
+30-01-2024,Plant 2,Sanitization Line 2,Cooling Cyclone,Cooling Blower,18,9095,113344,Vibration exceeded range,Schedule Repair,Fixed the part,SOP-based safety measures applied
+31-01-2024,Plant 3,Sanitization Line 1,Product Screener,Screening Rotary Valve,12,8600,163648,"Temperature and Vibration exceeded range, small white spot visible",Replace,Replaced with spare parts,Safety procedures aligned with SOP
+01-02-2024,Plant 3,Sanitization Line 1,Product Screener,Transfer Blower,10,7972,100248,Maintenance Required,Replace,Replaced with spare parts,Standard SOP protocols observed
+03-02-2024,Plant 5,Sanitization Line 2,Super Heater,Steam Circulation Blower 1,17,6398,138617,Vibration exceeded range,Replace,Replaced with spare parts,Safety compliance as per SOP
+04-02-2024,Plant 1,Sanitization Line 2,Super Heater,Steam Circulation Blower 2,19,5055,127960,Temperature and Vibration exceeded range,Replace,Replaced with spare parts,Ensured SOP safety adherence
+05-02-2024,Plant 1,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,13,7634,138657,Maintenance Required,Replace,Replaced with spare parts,SOP and safety checks done
+06-02-2024,Plant 1,Sanitization Line 2,Raw Material Bin,Husk Feed Screw,13,2213,124834,"Maintenance Required, decaying surface, huge white spot visible surface",Schedule Repair,Fixed the part,Followed SOP safety standards
+07-02-2024,Plant 2,Sanitization Line 1,Raw Material Bin,Raw Material Chamber,10,4095,147178,Vibration exceeded range,Schedule Repair,Fixed the part,Safety compliance per SOP
+08-02-2024,Plant 2,Sanitization Line 1,Raw Material Bin,2nd Stage Feed Screw,16,4161,129164,Vibration exceeded range with Visible crack on Surface,Replace,Replaced with spare parts,Safety checked as per SOP
+10-02-2024,Plant 3,Sanitization Line 2,Steam Cyclone,Husk Inlet HPRV,13,7479,182823,Temperature exceeded range,Replace,Replaced with spare parts,SOP safety protocol followed
+11-02-2024,Plant 4,Sanitization Line 2,Steam Cyclone,Husk Outlet HPRV,14,5773,133095,Vibration exceeded range,Schedule Repair,Fixed the part,Ensured safety as per SOP
+12-02-2024,Plant 5,Sanitization Line 2,Steam Cyclone,Steam Cyclone Chamber,15,3928,165136,"Pressure exceeded range, crack on surface",Replace,Replaced with spare parts,SOP safety measures applied
+13-02-2024,Plant 1,Sanitization Line 2,Steam Cyclone,Steam Cyclone tube and Piping,14,4953,124273,Maintenance Required,Replace,Replaced with spare parts,Safety protocols as per SOP followed
+14-02-2024,Plant 1,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Blower,12,3805,192756,Temperature exceeded range,Schedule Repair,Fixed the part,Checked safety compliance SOP
+15-02-2024,Plant 1,Sanitization Line 1,Steam Sep Cyclone,Steam Sep Rotary Valve,13,1749,164129,Vibration exceeded range,Schedule Repair,Fixed the part,SOP safety adherence verified
+17-02-2024,Plant 2,Sanitization Line 2,Cooling Cyclone,Cooling Rotary Valve,10,1421,176655,Maintenance Required,Replace,Replaced with spare parts,Following SOP safety guidelines
+18-02-2024,Plant 3,Sanitization Line 2,Cooling Cyclone,Cooling Blower,20,3093,148583,Vibration exceeded range with Visible crack on Surface,Replace,Replaced with spare parts,SOP based safety procedures followed
+19-02-2024,Plant 3,Sanitization Line 2,Product Screener,Screening Rotary Valve,18,2020,110692,Vibration exceeded range,Schedule Repair,Fixed the part,Safety protocols confirmed as per SOP
+20-02-2024,Plant 4,Sanitization Line 2,Product Screener,Transfer Blower,16,1892,130962,Temperature and Vibration exceeded range,Replace,Replaced with spare parts,Safety standards met according to SOP
+21-02-2024,Plant 5,Sanitization Line 1,Super Heater,Steam Circulation Blower 1,20,7951,183789,Maintenance Required,Replace,Replaced with spare parts,SOP safety guidelines followed
+22-02-2024,Plant 1,Sanitization Line 1,Super Heater,Steam Circulation Blower 2,16,6622,182923,Temperature exceeded range,Schedule Repair,Fixed the part,Safety compliance verified as per SOP
+24-02-2024,Plant 1,Sanitization Line 2,Raw Material Bin,Raw Material Rotary Valve,18,7533,105537,Vibration exceeded range with Visible crack on Surface,Replace,Replaced with spare parts,Checked and followed SOP safety protocols
