@@ -22,7 +22,8 @@
   </p>
 
   <h2>🎥 Demo</h2>
-  [MRO_Demo_Video.webm](https://github.com/user-attachments/assets/9833f6ad-b727-41d1-a6b1-7abfba5697a9)
+ [MRO_Demo_Video.webm](https://github.com/user-attachments/assets/567a5c27-33dc-4ac1-8d1b-c50386419ce9)
+
 
   <h2>🧠 Overview</h2>
   <p>
@@ -37,8 +38,8 @@
   </ul>
 
   <h2>📐 Architecture Diagram</h2>
-  <p><em>![MRO_Submit (1)](https://github.com/user-attachments/assets/642b4310-36c4-4bb5-8cc8-5ced78800aa7)
-</em><br><strong>“Technical Architecture of MRO”</strong></p>
+ ![MRO_Submit (1)](https://github.com/user-attachments/assets/fe0e5682-1d38-40b7-a4f8-cc510c07f26c)
+
 
   <h2>⚙️ Agentic Workflow</h2>
   <p>The platform uses a <strong>multi-stage, agent-driven workflow</strong>:</p>
@@ -138,29 +139,18 @@
   </p>
 
   <h2>🖼 Screenshots</h2>
-  <ul>
-   <li>![image](https://github.com/user-attachments/assets/887ea1a9-de79-43ac-9add-2d009344f40c)
-</li>
-    <li> ![image](https://github.com/user-attachments/assets/e2867aa3-615d-497f-9908-9a531b4535f5)
-</li>
-    <li>![image](https://github.com/user-attachments/assets/9aee2a2f-58db-48d9-a3f3-5c5dbf3840c5)
-</li>
-    <li>![image](https://github.com/user-attachments/assets/4614a6db-5d48-4a75-ad79-af9c7b3cc562)
-</li>
-   <li>![image](https://github.com/user-attachments/assets/930b439c-a26e-4330-a66c-66fede722f67)
-</li>
-   <li>![image](https://github.com/user-attachments/assets/492b4257-7824-4e8a-976b-155c3852067e)
-</li>
-   <li>![image](https://github.com/user-attachments/assets/f8b2afbf-9075-4fec-9a29-fa1e71545f6b)
-</li>
-   <li>![image](https://github.com/user-attachments/assets/0fdf7bb8-635c-45c1-84ce-391ad40ff6e2)
 
-   </li>
-   <li>![image](https://github.com/user-attachments/assets/9bc2e8fe-02e1-4a32-8384-fbb767fafcd7)
-</li>
-<li>https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
-</li>
-  </ul>
+![image](https://github.com/user-attachments/assets/887ea1a9-de79-43ac-9add-2d009344f40c)
+![image](https://github.com/user-attachments/assets/e2867aa3-615d-497f-9908-9a531b4535f5)
+![image](https://github.com/user-attachments/assets/9aee2a2f-58db-48d9-a3f3-5c5dbf3840c5)
+![image](https://github.com/user-attachments/assets/4614a6db-5d48-4a75-ad79-af9c7b3cc562)
+![image](https://github.com/user-attachments/assets/930b439c-a26e-4330-a66c-66fede722f67)
+![image](https://github.com/user-attachments/assets/492b4257-7824-4e8a-976b-155c3852067e)
+![image](https://github.com/user-attachments/assets/f8b2afbf-9075-4fec-9a29-fa1e71545f6b)
+![image](https://github.com/user-attachments/assets/0fdf7bb8-635c-45c1-84ce-391ad40ff6e2)
+![image](https://github.com/user-attachments/assets/9bc2e8fe-02e1-4a32-8384-fbb767fafcd7)
+![image]https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
+
 
 </body>
 </html>
