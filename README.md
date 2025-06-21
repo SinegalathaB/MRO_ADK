@@ -39,7 +39,8 @@
   </ul>
 
   <h2>📐 Architecture Diagram</h2>
-![MRO_Submit (1)](https://github.com/user-attachments/assets/69584a05-5c71-4823-a85d-8db8b6780adc)
+  ![image](https://github.com/user-attachments/assets/2e97194a-14d6-4140-a043-3a930a978b73)
+
 
 
 
