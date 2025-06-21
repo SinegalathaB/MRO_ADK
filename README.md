@@ -1,320 +1,168 @@
-PROBLEM STATEMENT 
-
-Graphic 1, Picture 
-
-Codebase Repository : SinegalathaB/MRO_ADK: Intelligent workflow automation for Machinery Repair Operations using ADK. Includes multi-agent orchestration for analyzing maintenance data, inventory, logs, and supplier details. 
-
-Demo Video Link: MRO Demo Video · Streamlit 
-
- 
-
-Overview 
-
-The Machine Repair Operations Dashboard is an interactive, intelligent maintenance and supply chain platform developed with Streamlit and powered by Google ADK (Agent Development Kit). The system integrates equipment data, logs, inventory information, and supplier performance into a unified dashboard for real-time monitoring, failure risk detection, maintenance planning, and procurement decision-making. 
-
- 
-
- 
-
- 
-
-Architecture Diagram 
-
- 
-
-Agentic Workflow 
- 
-
-The system uses intelligent agents to improve equipment safety and maintenance efficiency. In Stage 1, tools extract risks, parameters, and past issues from SOPs and logs. Stage 2 optimizes maintenance operations under budget/labor constraints , followed by scheduling and executive reporting. Stage 3 handles part replacement by checking inventory, finding suppliers, and recommending the best option. Each agent automates key decisions—risk detection, maintenance planning, and procurement—to reduce failures and optimize resources. 
-
- 
-
-PictureTechnical Architecture of MRO 
-
-Module Breakdown 
-
-🔹 App.py – Main Controller 
-
-Description: 
-
-Serves as the backbone of the application. It handles data ingestion, agent execution, and result serialization. It supports asynchronous agent orchestration and outputs data ready for UI rendering.  
-
-Responsibilities: 
-
-Load CSV and Excel datasets. 
-
-Execute multiple LLM agents using Google ADK. 
-
-Manage session and user context for pipeline consistency. 
-
-Save structured results to disk for UI consumption. 
-
-Shape 
-
-🔹 ResponseProcessing.py – Agent Output Handler 
-
-Description: 
-
-Handles post-processing of agent outputs into consistent, clean, and structured formats like JSON and Pandas DataFrames. 
-
-Responsibilities: 
-
-Cleans malformed agent outputs. 
-
-Converts JSON strings into structured Python data. 
-
-Extracts tables and summaries from multi-agent outputs. 
-
-Prepares final data for UI rendering. 
-
-Shape 
-
-🔹 SummarizationTool.py – Alert Generation System 
-
-Description: 
-
-Defines a collection of alert-generating agents that produce summarized insights for users based on complex operational data. 
-
-Capabilities: 
-
-Generates alerts for high-risk components, stock issues, and supplier performance. 
-
-Executes all summary agents in parallel for efficiency. 
-
-Saves unified outputs for dashboard usage. 
-
-Shape 
-
-🔹 adk_riskAnalysisWorkflow.py – Risk Assessment Engine 
-
-Description: 
-
-Constructs a comprehensive, multi-agent workflow for identifying and analyzing high-risk machinery components using sequential and parallel agents. 
-
-Highlights: 
-
-Identifies and ranks risk based on failure and usage patterns. 
-
-Filters logs and compiles visual insights. 
-
-Evaluates current inventory and suggests mitigations. 
-
-Shape 
-
-🔹 adk_inventoryTool.py – Supplier & Inventory Intelligence 
-
-Description: 
-
-Focuses on identifying low-stock critical parts and evaluates multiple supplier options based on quality, cost, and delivery metrics. 
-
-Key Outcomes: 
-
-Low stock detection among high-risk components. 
-
-Supplier mapping and selection using a weighted scoring system. 
-
-Shape 
-
-🔹 pages/Spare Parts And Inventory.py – Inventory UI Page 
-
-Description: 
-
-Implements a dedicated page in the dashboard to focus on spare parts and inventory health. It complements the main dashboard with additional alert-driven data views. 
-
-Shape 
-
-🔹 pages/Maintenance.py – Maintenance Planning Assistant 
-
-Description: 
-
-This module provides an interactive maintenance planning system. It allows users to input resource constraints (budget and labor) and generates optimized maintenance plans through an LLM-based agent. 
-
-Key Components: 
-
-Google ADK: Powers the LLM agent (maintenance_plan_agent) responsible for generating maintenance plans. 
-
-Streamlit: Renders an intuitive UI for input and displaying recommendations. 
-
-Agent Input Schema: 
-
-analysis_summary: Pre-optimization component-level analytics. 
-
-full_schedule: Post-optimization recommendations (decisions, risk levels). 
-
-post_optimization_summary: Condensed list of components needing immediate attention. 
-
-Agent Output Schema: 
-
-Alerts: Short alerts summarizing key decisions. 
-
-Details: Overview of affected components and actions. 
-
-Recommended_Actions: Concrete, prioritized steps for maintenance execution. 
-
-User Interaction: 
-
-Users specify a budget and daily labor availability. 
-
-Based on constraints, the agent outputs a structured maintenance plan. 
-
-Results are presented clearly in the dashboard for operational execution. 
-
-Shape 
-
-📊 Input Data Summary 
-
-Dataset 
-
-Format 
-
-Purpose 
-
-Line_components_new.csv 
-
-CSV 
-
-Component metadata 
-
-Historical_data.csv 
-
-CSV 
-
-Historical part failure records 
-
-Digital_log.csv 
-
-CSV 
-
-Real-time operational logs 
-
-Inventory.xlsx 
-
-Excel 
-
-Current stock and quantities 
-
-Suppliers.xlsx 
-
-Excel 
-
-Supplier attributes and records 
-
-Shape 
-
-🤖 Agent Ecosystem 
-
-Agent Type 
-
-Agents Included 
-
-Risk Identification 
-
-HighRiskIdentificationAgent, part_usage_agent 
-
-Historical Analysis 
-
-HistoricalAnalysisAgent, FailureSummaryAgent 
-
-Digital log analysis 
-
-LogFilterAgent, FailureSummaryAgent 
-
-Stock Intelligence 
-
-LowStockPartsAgent 
-
-Supplier Evaluation 
-
-SupplierInfoAgent, BestSupplierSelectorAgent 
-
-Summary Generation 
-
-HighRiskPartsSummaryAgent, DigitalLogSummaryAgent, etc. 
-
-Maintenance Planning 
-
-MaintenancePlanAgent  
-
-Shape 
-
-🖼 Visualization & User Interface 
-
-Plots & Charts: Visual summaries of high-risk parts are rendered using saved PNGs or generated dynamically with Matplotlib. 
-
-Dynamic Alert Panel: Alerts update based on user interaction and agent outputs. 
-
-Inventory & Maintenance Pages: Organized via Streamlit’s multi-page support under /pages. 
-
-Shape 
-
-🔁 Application Flow 
-
-Data Load: Application reads raw data from all relevant files. 
-
-Agent Execution: Modular agent workflows assess risks, stock issues, and generate summaries. 
-
-Persistence: All results are saved in pickle files for UI loading. 
-
-User Interface: Users access dashboards to explore analytics, maintenance plans, and part-level data. 
-
-Shape 
-
-✅ Conclusion 
-
-This intelligent dashboard transforms static operational data into a live decision-support system using cutting-edge AI agents, interactive interfaces, and structured pipelines. The addition of maintenance planning makes the solution actionable and resource-aware, empowering maintenance teams to optimize outcomes even under constraints. 
-
- 
-
-Screenshots: 
-
- 
-
-A screenshot of a web page
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a web page
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated, Picture 
-
- 
-
-Picture 1, Picture 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a graph
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated, Picture 
-
- 
-
-A screenshot of a computer
-
-Description automatically generated, Picture 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Intelligent Workflow Automation for Machinery Repair Operations</title>
+</head>
+<body>
+
+  <h1>🛠️ Intelligent Workflow Automation for Machinery Repair Operations using Agentic AI</h1>
+  <blockquote>Transforming static machinery data into dynamic, autonomous maintenance decisions using multi-agent orchestration with Google ADK.</blockquote>
+
+  <h2>🚩 Problem Statement</h2>
+  <p>
+    Machine maintenance in industrial environments remains reactive, inefficient, and data-disconnected. Failures are often detected post-incident,
+    spare part availability is unclear, and supplier evaluation is mostly manual. Training schedules are static and not tailored to real-time needs.
+  </p>
+
+  <h2>📦 Codebase</h2>
+  <p>
+    <strong>Repository:</strong> <a href="https://github.com/SinegalathaB/MRO_ADK">SinegalathaB/MRO_ADK</a><br>
+    An AI-powered platform using intelligent agents to automate risk detection, maintenance planning, and inventory optimization in real-time.
+  </p>
+
+  <h2>🎥 Demo</h2>
+  <p>
+    <strong>Watch the Demo:</strong> <a href="https://mrodemovideo-u8zateuhzk4mrykdww4qrl.streamlit.app/">MRO Demo Video · Streamlit</a>
+  </p>
+
+  <h2>🧠 Overview</h2>
+  <p>
+    The <strong>Machine Repair Operations Dashboard</strong> is a Streamlit-based platform powered by <strong>Google ADK</strong> (Agent Development Kit). 
+    It integrates machine logs, SOPs, inventory levels, and supplier data to:
+  </p>
+  <ul>
+    <li>Detect risks and failures</li>
+    <li>Optimize maintenance planning</li>
+    <li>Recommend procurement strategies</li>
+    <li>Enhance decision-making via AI agents</li>
+  </ul>
+
+  <h2>📐 Architecture Diagram</h2>
+  <p><em>![MRO_Submit (1)](https://github.com/user-attachments/assets/642b4310-36c4-4bb5-8cc8-5ced78800aa7)
+</em><br><strong>“Technical Architecture of MRO”</strong></p>
+
+  <h2>⚙️ Agentic Workflow</h2>
+  <p>The platform uses a <strong>multi-stage, agent-driven workflow</strong>:</p>
+  <ol>
+    <li><strong>Stage 1 – Risk Extraction:</strong> Analyze SOPs, logs, and historical records for risks and patterns.</li>
+    <li><strong>Stage 2 – Maintenance Planning:</strong> Schedule tasks based on workforce/budget constraints; generate executive reports.</li>
+    <li><strong>Stage 3 – Spare Part Management:</strong> Evaluate inventory and suppliers; recommend optimal procurement.</li>
+  </ol>
+  <p>Each agent performs a key task autonomously and contributes to a seamless, intelligent system.</p>
+
+  <h2>🧩 Module Breakdown</h2>
+  <h3>🔹 App.py – Main Controller</h3>
+  <ul>
+    <li>Loads data files (CSV, Excel)</li>
+    <li>Orchestrates multi-agent execution via Google ADK</li>
+    <li>Saves structured results for dashboard rendering</li>
+  </ul>
+
+  <h3>🔹 ResponseProcessing.py – Agent Output Handler</h3>
+  <ul>
+    <li>Cleans agent outputs</li>
+    <li>Converts results into structured formats (JSON, DataFrame)</li>
+  </ul>
+
+  <h3>🔹 SummarizationTool.py – Alert Generator</h3>
+  <ul>
+    <li>Runs summary agents in parallel</li>
+    <li>Produces risk, stock, and supplier alerts</li>
+  </ul>
+
+  <h3>🔹 adk_riskAnalysisWorkflow.py – Risk Analysis Engine</h3>
+  <ul>
+    <li>Identifies risk levels</li>
+    <li>Filters and visualizes log data</li>
+  </ul>
+
+  <h3>🔹 adk_inventoryTool.py – Inventory & Supplier Analyzer</h3>
+  <ul>
+    <li>Detects low stock for high-risk parts</li>
+    <li>Selects best supplier using weighted scoring</li>
+  </ul>
+
+  <h3>🔹 pages/Spare Parts And Inventory.py – Inventory UI</h3>
+  <ul>
+    <li>Dedicated inventory visualization with agent alerts</li>
+  </ul>
+
+  <h3>🔹 pages/Maintenance.py – Maintenance Planning</h3>
+  <ul>
+    <li>User inputs budget and labor availability</li>
+    <li>LLM agent generates optimized maintenance plan</li>
+    <li>Recommendations and alerts rendered in the UI</li>
+  </ul>
+
+  <h2>📊 Input Data Summary</h2>
+  <table border="1">
+    <tr><th>Dataset</th><th>Format</th><th>Purpose</th></tr>
+    <tr><td>Line_components.csv</td><td>CSV</td><td>Component metadata</td></tr>
+    <tr><td>Historical_data.csv</td><td>CSV</td><td>Historical failure records</td></tr>
+    <tr><td>Digital_log.csv</td><td>CSV</td><td>Live operational logs</td></tr>
+    <tr><td>Inventory.xlsx</td><td>Excel</td><td>Current stock levels</td></tr>
+    <tr><td>Suppliers.xlsx</td><td>Excel</td><td>Supplier details & metrics</td></tr>
+  </table>
+
+  <h2>🤖 Agent Ecosystem</h2>
+  <table border="1">
+    <tr><th>Agent Type</th><th>Agents Included</th></tr>
+    <tr><td>Risk Identification</td><td>HighRiskIdentificationAgent, part_usage_agent</td></tr>
+    <tr><td>Historical Analysis</td><td>HistoricalAnalysisAgent, FailureSummaryAgent</td></tr>
+    <tr><td>Log Analysis</td><td>LogFilterAgent, FailureSummaryAgent</td></tr>
+    <tr><td>Stock Intelligence</td><td>LowStockPartsAgent</td></tr>
+    <tr><td>Supplier Evaluation</td><td>SupplierInfoAgent, BestSupplierSelectorAgent</td></tr>
+    <tr><td>Summary Generation</td><td>HighRiskPartsSummaryAgent, DigitalLogSummaryAgent</td></tr>
+    <tr><td>Maintenance Planning</td><td>MaintenancePlanAgent</td></tr>
+  </table>
+
+  <h2>🖥 Visualization & UI</h2>
+  <ul>
+    <li><strong>Dynamic Alert Panel:</strong> Updates in real-time based on agent outputs</li>
+    <li><strong>Plots & Graphs:</strong> Created using Matplotlib or static PNGs</li>
+    <li><strong>Multi-page Navigation:</strong> Inventory and maintenance pages under <code>/pages</code></li>
+  </ul>
+
+  <h2>🔁 Application Flow</h2>
+  <ol>
+    <li>Load CSV/Excel data files</li>
+    <li>Run agent pipelines to detect risks, optimize schedules, evaluate inventory</li>
+    <li>Save results as pickle files for UI rendering</li>
+    <li>Display results in an interactive Streamlit dashboard</li>
+  </ol>
+
+  <h2>✅ Conclusion</h2>
+  <p>
+    This platform brings <strong>intelligence and autonomy</strong> to traditional machine repair operations. 
+    By combining <strong>multi-agent orchestration</strong> with real-time data and an intuitive dashboard, 
+    the system helps teams make confident, data-backed decisions—even under constraints.
+  </p>
+
+  <h2>🖼 Screenshots</h2>
+  <ul>
+   <li>![image](https://github.com/user-attachments/assets/887ea1a9-de79-43ac-9add-2d009344f40c)
+</li>
+    <li> ![image](https://github.com/user-attachments/assets/e2867aa3-615d-497f-9908-9a531b4535f5)
+</li>
+    <li>![image](https://github.com/user-attachments/assets/9aee2a2f-58db-48d9-a3f3-5c5dbf3840c5)
+</li>
+    <li>![image](https://github.com/user-attachments/assets/4614a6db-5d48-4a75-ad79-af9c7b3cc562)
+</li>
+   <li>![image](https://github.com/user-attachments/assets/930b439c-a26e-4330-a66c-66fede722f67)
+</li>
+   <li>![image](https://github.com/user-attachments/assets/492b4257-7824-4e8a-976b-155c3852067e)
+</li>
+   <li>![image](https://github.com/user-attachments/assets/f8b2afbf-9075-4fec-9a29-fa1e71545f6b)
+</li>
+   <li>![image](https://github.com/user-attachments/assets/0fdf7bb8-635c-45c1-84ce-391ad40ff6e2)
+
+   </li>
+   <li>![image](https://github.com/user-attachments/assets/9bc2e8fe-02e1-4a32-8384-fbb767fafcd7)
+</li>
+<li>![image](https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
+</li>
+  </ul>
+
+</body>
+</html>
