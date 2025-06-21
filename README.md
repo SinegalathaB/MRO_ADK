@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Intelligent Workflow Automation for Machinery Repair Operations</title>
 </head>
 <body>
 
@@ -160,7 +159,7 @@
    </li>
    <li>![image](https://github.com/user-attachments/assets/9bc2e8fe-02e1-4a32-8384-fbb767fafcd7)
 </li>
-<li>![image](https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
+<li>https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
 </li>
   </ul>
 
