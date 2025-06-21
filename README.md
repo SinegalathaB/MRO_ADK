@@ -22,7 +22,8 @@
   </p>
 
   <h2>🎥 Demo</h2>
- [MRO_Demo_Video.webm](https://github.com/user-attachments/assets/567a5c27-33dc-4ac1-8d1b-c50386419ce9)
+![MRO_Demo_Video.webm](https://github.com/user-attachments/assets/6f11850f-8e5b-43db-9a12-0e7494328b4b)
+
 
 
   <h2>🧠 Overview</h2>
