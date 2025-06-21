@@ -39,7 +39,8 @@
   </ul>
 
   <h2>📐 Architecture Diagram</h2>
- ![MRO_Submit (1)](https://github.com/user-attachments/assets/fe0e5682-1d38-40b7-a4f8-cc510c07f26c)
+![MRO_Submit (1)](https://github.com/user-attachments/assets/69584a05-5c71-4823-a85d-8db8b6780adc)
+
 
 
   <h2>⚙️ Agentic Workflow</h2>
