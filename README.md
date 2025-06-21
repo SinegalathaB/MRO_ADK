@@ -21,10 +21,11 @@
     An AI-powered platform using intelligent agents to automate risk detection, maintenance planning, and inventory optimization in real-time.
   </p>
 
-  <h2>🎥 Demo</h2>
-![MRO_Demo_Video.webm](https://github.com/user-attachments/assets/6f11850f-8e5b-43db-9a12-0e7494328b4b)
-
-
+<h2>🎥 Demo</h2>
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/6f11850f-8e5b-43db-9a12-0e7494328b4b/MRO_Demo_Video.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
   <h2>🧠 Overview</h2>
   <p>
