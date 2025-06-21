@@ -39,11 +39,8 @@
   </ul>
 
   <h2>📐 Architecture Diagram</h2>
+  ![image](https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
   ![image](https://github.com/user-attachments/assets/2e97194a-14d6-4140-a043-3a930a978b73)
-
-
-
-
   <h2>⚙️ Agentic Workflow</h2>
   <p>The platform uses a <strong>multi-stage, agent-driven workflow</strong>:</p>
   <ol>
@@ -152,7 +149,7 @@
 ![image](https://github.com/user-attachments/assets/f8b2afbf-9075-4fec-9a29-fa1e71545f6b)
 ![image](https://github.com/user-attachments/assets/0fdf7bb8-635c-45c1-84ce-391ad40ff6e2)
 ![image](https://github.com/user-attachments/assets/9bc2e8fe-02e1-4a32-8384-fbb767fafcd7)
-![image]https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
+![image](https://github.com/user-attachments/assets/0a707ba0-1b80-4056-889b-5ebfe50fcf05)
 
 
 </body>
