@@ -1,4 +1,4 @@
-[MRO_Demo_Video.webm](https://github.com/user-attachments/assets/9833f6ad-b727-41d1-a6b1-7abfba5697a9)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,9 +22,7 @@
   </p>
 
   <h2>🎥 Demo</h2>
-  <p>
-    <strong>Watch the Demo:</strong> <a href="https://mrodemovideo-u8zateuhzk4mrykdww4qrl.streamlit.app/">MRO Demo Video · Streamlit</a>
-  </p>
+  [MRO_Demo_Video.webm](https://github.com/user-attachments/assets/9833f6ad-b727-41d1-a6b1-7abfba5697a9)
 
   <h2>🧠 Overview</h2>
   <p>
