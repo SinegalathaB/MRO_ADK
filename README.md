@@ -38,7 +38,8 @@
   </ul>
 
   <h2>📐 Architecture Diagram</h2>
-![image](https://github.com/user-attachments/assets/da01ea31-55e6-4162-8bcd-20cc61fb8d03)
+![MRO_TECHARCH](https://github.com/user-attachments/assets/a8742f04-b408-4121-9d8c-4598164d4504)
+
 
   <h2>⚙️ Agentic Workflow</h2>
   <p>The platform uses a <strong>multi-stage, agent-driven workflow</strong>:</p>
